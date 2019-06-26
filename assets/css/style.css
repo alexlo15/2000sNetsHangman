@@ -1,1 +1,48 @@
-css
+body{
+    background: rgb(232, 232, 233);
+    border: black solid 3px;
+}
+
+header {
+    border: 3px solid black;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+}
+
+#head{
+    font-size: 76px;
+    border-bottom: 5px solid crimson;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#head2{
+    font-size: 59px;
+    border-bottom: 5px solid navy;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+
+}
+
+#netspic{
+    width:15%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.panelpanel-default{
+    text-align: center;
+    font-size: 45px;as
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wordToGuess{
+    border-bottom: solid black 5px;
+    padding-bottom: 15px;
+}
+
+#divide{
+    border-bottom: solid black 5px;
+    padding-bottom: 15px;
+}
