@@ -16,6 +16,8 @@ Create a basic hangman game to introduce myself to JavaScript.
 * [Bootstrap]
 
 
+![SShot](assets/images/hangman.JPG)
+
 ## License
 A short snippet describing the license (MIT, Apache etc)
 
