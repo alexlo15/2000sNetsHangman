@@ -10,10 +10,10 @@ Create a basic hangman game to introduce myself to JavaScript.
 ## Technologies used and why
 
 **Built with:**
-* [JavaScript]
-* [HTML]
-* [CSS}
-* [Bootstrap]
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
+* [JavaScript](https://www.javascript.com/)
+* [Bootstrap](https://www.Bootstrap.com/)
 
 
 ![SShot](assets/images/hangman.JPG)
